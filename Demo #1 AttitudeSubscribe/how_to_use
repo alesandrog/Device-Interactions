@@ -1,0 +1,15 @@
+
+Steps : 
+
+1. Download the Tramontana App
+- iOS : https://apps.apple.com/us/app/tramontana/id1121069555
+- Android : https://play.google.com/store/apps/details?id=com.pierdr.pierluigidallarosa.myactivity&hl=es
+
+2. Go to js/index.js line 12 and change the ip adress for the one shown in the app.
+
+3. Once you have applied this changes, load index.html in your browser
+
+4. Place the screen of the device looking up
+
+- To move up and down tilt the phone forward and backward
+- Move sideways by tilting your phone from right to left or left to right
