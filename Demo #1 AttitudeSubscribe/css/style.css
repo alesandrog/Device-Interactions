@@ -1,0 +1,21 @@
+#elemento{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    position: absolute;
+}
+
+
+#contenedor{
+    height: 500px;
+    width: 800px;
+background-color: aquamarine;
+position: absolute;
+}
+
+#instrucciones{
+    height: 30px;
+    width: 800px;
+    position: absolute;
+    margin-top: 500px;
+}
